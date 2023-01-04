@@ -6,7 +6,7 @@ This repository is the codebase of tutorial [How to Use ChatGPT to Automate Writ
 
 ## Medusa Version
 
-This tutorial uses Medusa v1.3.5. It is not guaranteed that it will work with future releases.
+This tutorial uses Medusa v1.7.2 It is not guaranteed that it will work with future releases.
 
 ## Prerequisites
 
