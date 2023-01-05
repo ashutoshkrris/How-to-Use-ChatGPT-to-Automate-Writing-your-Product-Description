@@ -23,15 +23,7 @@ class DescriptionSubscriber {
 
         productDescription = await this.prepareDescription(prompt);
       } catch (error) {
-        let errorMessage =
-          "Something went wrong while generating the product description.";
-        const response = error.response;
-
-        if (response.status === 500) {
-          errorMessage = errorMessage + " " + "Check your server code";
-        }
-
-        console.log(errorMessage);
+        console.log(error.response);
         return;
       }
 
