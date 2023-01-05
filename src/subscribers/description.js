@@ -23,7 +23,8 @@ class DescriptionSubscriber {
 
         productDescription = await this.prepareDescription(prompt);
       } catch (error) {
-        console.log(error.response);
+        const errorMessage = error.response.data.error.message;
+        console.error("Error: " + errorMessage);
         return;
       }
 
