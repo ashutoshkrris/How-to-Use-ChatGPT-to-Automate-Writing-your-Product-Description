@@ -1,6 +1,6 @@
 # How to Use ChatGPT to Automate Writing your Product Description
 
-This repository is the codebase of tutorial [How to Use ChatGPT to Automate Writing your Product Description](tutorial-link).
+This repository is the codebase of tutorial [How to Use ChatGPT to Automate Writing your Product Description](https://medusajs.com/blog/chatgpt-medusa/).
 
 [Medusa Documentation](https://docs.medusajs.com/) | [Medusa Website](https://medusajs.com/) | [Medusa Repository](https://github.com/medusajs/medusa)
 
